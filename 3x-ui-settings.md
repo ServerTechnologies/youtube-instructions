@@ -71,7 +71,7 @@ https://youtu.be/SaVi8Mw4Ci8
 https://youtu.be/uQiE3JWE2ig
 ## Клиенты для разный разных операционных систем.
 ### Windows
-V2RayN:|
+V2RayN:\
 https://github.com/2dust/v2rayN/releases
 
 ### MacOS
