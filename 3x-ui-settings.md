@@ -8,7 +8,7 @@ sudo x-ui
 ```
 После чего выберите пункт **Uninstall**. Панель будет удалена с сервера и ее можно будет заново установить на тот же сервер.
 
-![Удаление панели](https://raw.githubusercontent.com/ServerTechnologies/youtube-instructions/refs/heads/main/screenshots/3x-ui/Uninstall.jpg)
+![Удаление панели](https://raw.githubusercontent.com/ServerTechnologies/youtube-instructions/refs/heads/main/screenshots/3x-ui/unistal.jpg)
 
 ## Установка панели.
 При установке панели есть некоторые изменения. Разработчики упростили и одновременно обезопасили установку панели. Все делается как в видео, но теперь не нужно придумывать логин и пароль и разработчики добавили WebBasePath. WebBasePath нужен для того чтобы скрыть стандартный адрес панели управления. Основные шаги делаем как в видео. Вводим команду:
@@ -26,10 +26,11 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 ![Процесс установки](https://raw.githubusercontent.com/ServerTechnologies/youtube-instructions/refs/heads/main/screenshots/3x-ui/webbasepath.jpg)
 
- Чтобы попасть в панель, нужно ввести в адресную строку браузера
+Чтобы попасть в панель, нужно ввести в адресную строку браузера
  ```sh
 http:// 111.222.333.444:port/WebBasePath
 ```
+
 Где 111.222.333.444 - ip адрес вашего сервера, port - порт который вы ввели (желательно использовать цифры в диапазоне от 4000 до 65000), WebBasePath - то что указано в выводе команды установки панели, в моем примере это:
 ```sh
 http://111.222.333.444:65000/AFmRdR9PzKSXjcU
