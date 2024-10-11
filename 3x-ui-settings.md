@@ -79,6 +79,10 @@ https://github.com/2dust/v2rayN/releases
 V2Box\
 FoxRay
 
+### Linux
+Nekoray\
+https://github.com/MatsuriDayo/nekoray/releases
+
 ### IOS
 Streisand:\
 https://apps.apple.com/ru/app/streisand/id6450534064
