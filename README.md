@@ -3,3 +3,4 @@
 ## Оглавление
 
 - [Настройка 3x-ui с обновлениями](https://github.com/ServerTechnologies/youtube-instructions/blob/main/3x-ui-settings.md)
+- [Настройка Marzban с обновлениями](https://github.com/ServerTechnologies/youtube-instructions/blob/main/marzban-settings.md)

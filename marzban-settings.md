@@ -19,7 +19,7 @@ marzban uninstall
 
 В поле "sub domain" вставляете любое слово или рандомный набор латинских букв, вообще не важно какой, жмете add domain. После этого для вас будет создан поддомен вида youword.duckdns.org, где "youword" - то слово или те буквы, которые вы ввели.
 
-![Удаление Marzban](https://raw.githubusercontent.com/ServerTechnologies/youtube-instructions/refs/heads/main/screenshots/marzban/buck-dns.jpg)
+![Удаление Marzban](https://raw.githubusercontent.com/ServerTechnologies/youtube-instructions/refs/heads/main/screenshots/marzban/duck-dns.jpg)
 
 
 В это поле вставляете ip адрес вашего сервера и нажимаете update ip.
